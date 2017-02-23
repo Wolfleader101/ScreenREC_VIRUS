@@ -1,0 +1,1 @@
+x=msgbox("Screen Recorder is and running", 0+64, "SCREEN RECORDER")
